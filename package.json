@@ -6,7 +6,7 @@
 		"name": "Sondre Giæver",
 		"email": "hello@sondreg.net",
 		"url": "sondreg.net"
-	},
+  },
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.1",
